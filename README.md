@@ -5,6 +5,8 @@ Sou aluno do **Senac São Miguel**, atualmente cursando o **Técnico em Informá
 
 ## 🔧 Tecnologias e Serviços
 - VS Code
+- Servidor Windows 
+    - AD
 - Servidor Linux 
     - Squid 
     - Samba
@@ -15,7 +17,7 @@ Sou aluno do **Senac São Miguel**, atualmente cursando o **Técnico em Informá
 
 - Assistente de Suporte e Manuntençaõ de Computadores (Senac São Miguel - 272 horas)
 - Assistente de Operações de Redes de Computadores (Senac São Miguel - 308 Horas)
-- IT Essentials (Cisco)
+- IT Essentials (Cisco - 80 Horas)
 
 
 ## 💻 Linguagens 
@@ -28,15 +30,12 @@ Sou aluno do **Senac São Miguel**, atualmente cursando o **Técnico em Informá
 
 - **[Datacore](https://www.canva.com/design/DAGjfLvfe4k/4N86pnBOrpwQGfrfT8CwXg/edit?utm_content=DAGjfLvfe4k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) - Empresa Ficticia**  
   Estruturação de uma rede com múltiplas VLANs, dois roteadores, dois switches, servidores físicos e em nuvem (HTTP e DHCP), e failover entre roteadores.
-![Datacore](img/topolofia.png "Datacore")
+![Datacore](img/topolofia.png "Data")
 
-- **DATACORE - Empresa Ficticia**  
-  Estruturação de uma rede com múltiplas VLANs, dois roteadores, dois switches, servidores físicos e em nuvem (HTTP e DHCP), e failover entre roteadores.
 
 ## Links
 
 [Meu Linkedin](https://www.linkedin.com/in/vinicius-moises/)
-[Datacore]
 
 ## ✨ Sobre mim
 

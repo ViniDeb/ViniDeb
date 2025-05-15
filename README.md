@@ -28,9 +28,8 @@ Sou aluno do **Senac São Miguel**, atualmente cursando o **Técnico em Informá
 
 ## 📚 Projetos Acadêmicos
 
-- **[Datacore](https://www.canva.com/design/DAGjfLvfe4k/4N86pnBOrpwQGfrfT8CwXg/edit?utm_content=DAGjfLvfe4k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) - Empresa Ficticia**  
+- **[Datacore](https://www.canva.com/design/DAGjfLvfe4k/4N86pnBOrpwQGfrfT8CwXg/edit?utm_content=DAGjfLvfe4k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**  
   Estruturação de uma rede com múltiplas VLANs, dois roteadores, dois switches, servidores físicos e em nuvem (HTTP e DHCP), e failover entre roteadores.
-![Datacore](img/topolofia.png "Data")
 
 
 ## Links

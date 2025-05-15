@@ -1,15 +1,15 @@
 ## Olá, eu sou o Vinicius 👋
 
-Sou aluno do **Senac São Miguel**, atualmente cursando o **Técnico em Informática**. No momento, estou na UC de **Desenvolvimento**, onde coloco em prática meus conhecimentos em programação, redes e infraestrutura.
+Sou aluno do **Senac São Miguel**, atualmente cursando o **Técnico em Informática**. No momento, estou na UC de **Desenvolvimento**, onde coloco em prática meus conhecimentos em programação.
 
-Tenho grande interesse em **redes de computadores**, **infraestrutura de TI**, **automação com Arduino**, **programação web** e **projetos integradores voltados para empresas e instituições de ensino**.
 
-## 🔧 Tecnologias e Ferramentas que uso
-
-- Git e GitHub (controle de versão e documentação)
+## 🔧 Tecnologias e Serviços
 - VS Code
-- Apache2 
-- Squid 
+- Servidor Linux 
+    - Squid 
+    - Samba
+    - NFS
+    - Apache2  
 
 ## 💻 Certificações
 
@@ -18,21 +18,25 @@ Tenho grande interesse em **redes de computadores**, **infraestrutura de TI**, *
 - IT Essentials (Cisco)
 
 
-## 💻 Linguagens Usadas
-
+## 💻 Linguagens 
 - Python
 - Java
 - HTML, CSS e JavaScript
+- C++
 
-## 📚 Projetos Relevantes
+## 📚 Projetos Acadêmicos
 
-- **DATACORE - Empresa Ficticia**  
+- **[Datacore](https://www.canva.com/design/DAGjfLvfe4k/4N86pnBOrpwQGfrfT8CwXg/edit?utm_content=DAGjfLvfe4k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) - Empresa Ficticia**  
   Estruturação de uma rede com múltiplas VLANs, dois roteadores, dois switches, servidores físicos e em nuvem (HTTP e DHCP), e failover entre roteadores.
 ![Datacore](img/topolofia.png "Datacore")
 
+- **DATACORE - Empresa Ficticia**  
+  Estruturação de uma rede com múltiplas VLANs, dois roteadores, dois switches, servidores físicos e em nuvem (HTTP e DHCP), e failover entre roteadores.
+
 ## Links
 
-[Linkedin](https://www.linkedin.com/in/vinicius-moises/)
+[Meu Linkedin](https://www.linkedin.com/in/vinicius-moises/)
+[Datacore]
 
 ## ✨ Sobre mim
 

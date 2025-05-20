@@ -15,16 +15,20 @@ Sou aluno do **Senac São Miguel**, atualmente cursando o **Técnico em Informá
 
 ## 💻 Certificações
 
-- Assistente de Suporte e Manuntençaõ de Computadores (Senac São Miguel - 272 horas)
+- Assistente de Suporte e Manuntenção de Computadores (Senac São Miguel - 272 horas)
 - Assistente de Operações de Redes de Computadores (Senac São Miguel - 308 Horas)
 - IT Essentials (Cisco - 80 Horas)
 
 
-## 💻 Linguagens 
+## 💻 Linguagens
 - Python
 - Java
-- HTML, CSS e JavaScript
 - C++
+- java
+- HTML
+- CSS
+- JavaScript
+  
 
 ## 📚 Projetos Acadêmicos
 

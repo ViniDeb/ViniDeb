@@ -24,7 +24,6 @@ Sou aluno do **Senac São Miguel**, atualmente cursando o **Técnico em Informá
 - Python
 - Java
 - C++
-- java
 - HTML
 - CSS
 - JavaScript
